@@ -1,0 +1,16 @@
+/Users/yasirali/Projects/PdfViewerXamForms/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/yasirali/Projects/PdfViewerXamForms/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/yasirali/Projects/PdfViewerXamForms/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/yasirali/Projects/PdfViewerXamForms/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/yasirali/Projects/PdfViewerXamForms/iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/yasirali/Projects/PdfViewerXamForms/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/yasirali/Projects/PdfViewerXamForms/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/yasirali/Projects/PdfViewerXamForms/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/yasirali/Projects/PdfViewerXamForms/iOS/bin/iPhoneSimulator/Debug/PdfViewerXamForms.iOS.exe.mdb
+/Users/yasirali/Projects/PdfViewerXamForms/iOS/bin/iPhoneSimulator/Debug/PdfViewerXamForms.iOS.exe
+/Users/yasirali/Projects/PdfViewerXamForms/iOS/obj/iPhoneSimulator/Debug/PdfViewerXamForms.iOS.exe
+/Users/yasirali/Projects/PdfViewerXamForms/iOS/obj/iPhoneSimulator/Debug/PdfViewerXamForms.iOS.exe.mdb
+/Users/yasirali/Projects/PdfViewerXamForms/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/yasirali/Projects/PdfViewerXamForms/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/yasirali/Projects/PdfViewerXamForms/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/yasirali/Projects/PdfViewerXamForms/iOS/obj/iPhoneSimulator/Debug/PdfViewerXamForms.iOS.Content.samplepdf.pdf
